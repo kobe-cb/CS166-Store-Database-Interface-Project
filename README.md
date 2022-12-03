@@ -1,4 +1,4 @@
-# temp2
+CS166 Store Database Interface Project
 
 # Steps
 - cd project/serverManagement/
