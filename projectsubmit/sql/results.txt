@@ -1,0 +1,161 @@
+Results of 10 measure.sh, averages written in report:
+
+// 1
+Query time without indexes
+Query1: 1.593 ms
+Query2: 0.664 ms
+Query3: 1.583 ms
+Query4: 0.331 ms
+Query5: 0.465 ms
+Query6: 0.395 ms
+Query time with indexes
+Query1: 1.505 ms
+Query2: 0.547 ms
+Query3: 1.584 ms
+Query4: 0.299 ms
+Query5: 0.484 ms
+Query6: 0.367 ms
+
+// 2
+Query time without indexes
+Query1: 1.746 ms
+Query2: 0.663 ms
+Query3: 1.640 ms
+Query4: 0.332 ms
+Query5: 0.509 ms
+Query6: 0.395 ms
+Query time with indexes
+Query1: 1.570 ms
+Query2: 0.545 ms
+Query3: 1.586 ms
+Query4: 0.300 ms
+Query5: 0.453 ms
+Query6: 0.361 ms
+
+// 3
+Query time without indexes
+Query1: 1.699 ms
+Query2: 0.683 ms
+Query3: 1.639 ms
+Query4: 0.371 ms
+Query5: 0.507 ms
+Query6: 0.405 ms
+Query time with indexes
+Query1: 1.511 ms
+Query2: 0.546 ms
+Query3: 1.440 ms
+Query4: 0.274 ms
+Query5: 0.442 ms
+Query6: 0.332 ms
+
+// 4
+Query time without indexes
+Query1: 1.716 ms
+Query2: 0.705 ms
+Query3: 1.662 ms
+Query4: 0.327 ms
+Query5: 0.537 ms
+Query6: 0.385 ms
+Query time with indexes
+Query1: 1.584 ms
+Query2: 0.562 ms
+Query3: 1.607 ms
+Query4: 0.312 ms
+Query5: 0.451 ms
+Query6: 0.410 ms
+
+// 5
+Query time without indexes
+Query1: 1.595 ms
+Query2: 0.723 ms
+Query3: 1.524 ms
+Query4: 0.327 ms
+Query5: 0.492 ms
+Query6: 0.407 ms
+Query time with indexes
+Query1: 1.545 ms
+Query2: 0.566 ms
+Query3: 1.561 ms
+Query4: 0.276 ms
+Query5: 0.474 ms
+Query6: 0.343 ms
+
+// 6
+Query time without indexes
+Query1: 1.769 ms
+Query2: 0.660 ms
+Query3: 1.673 ms
+Query4: 0.327 ms
+Query5: 0.513 ms
+Query6: 0.396 ms
+Query time with indexes
+Query1: 1.632 ms
+Query2: 0.627 ms
+Query3: 1.528 ms
+Query4: 0.277 ms
+Query5: 0.487 ms
+Query6: 0.363 ms
+
+// 7
+Query time without indexes
+Query1: 1.679 ms
+Query2: 0.678 ms
+Query3: 1.649 ms
+Query4: 0.323 ms
+Query5: 0.498 ms
+Query6: 0.436 ms
+Query time with indexes
+Query1: 1.765 ms
+Query2: 0.683 ms
+Query3: 1.812 ms
+Query4: 0.336 ms
+Query5: 0.563 ms
+Query6: 0.438 ms
+
+// 8
+Query time without indexes
+Query1: 1.680 ms
+Query2: 0.664 ms
+Query3: 1.611 ms
+Query4: 0.349 ms
+Query5: 0.469 ms
+Query6: 0.375 ms
+Query time with indexes
+Query1: 1.509 ms
+Query2: 0.687 ms
+Query3: 1.450 ms
+Query4: 0.263 ms
+Query5: 0.411 ms
+Query6: 0.359 ms
+
+// 9
+Query time without indexes
+Query1: 1.800 ms
+Query2: 0.703 ms
+Query3: 1.755 ms
+Query4: 0.361 ms
+Query5: 0.551 ms
+Query6: 0.450 ms
+Query time with indexes
+Query1: 1.599 ms
+Query2: 0.586 ms
+Query3: 1.588 ms
+Query4: 0.328 ms
+Query5: 0.473 ms
+Query6: 0.382 ms
+
+// 10
+Query time without indexes
+Query1: 1.679 ms
+Query2: 0.669 ms
+Query3: 1.652 ms
+Query4: 0.353 ms
+Query5: 0.500 ms
+Query6: 0.400 ms
+Query time with indexes
+Query1: 1.525 ms
+Query2: 0.551 ms
+Query3: 1.576 ms
+Query4: 0.266 ms
+Query5: 0.430 ms
+Query6: 0.359 ms

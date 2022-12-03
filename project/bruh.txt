@@ -1,2 +1,0 @@
-source runs in current shell
-./ runs in subshell so environmental variable declation doesnt save
